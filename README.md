@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hishmat-dev
+- 👋 Hi, I’m hishmat
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java Sprig Boot
 
